@@ -56,8 +56,7 @@ public class DOMInjection extends LessonAdapter
 
     private final static Integer DEFAULT_RANKING = new Integer(10);
 
-    private final static String KEY = "key";
-
+   
     public final static A MAC_LOGO = new A().setHref("http://www.softwaresecured.com").addElement(new IMG("images/logos/softwaresecured.gif").setAlt("Software Secured").setBorder(0).setHspace(0).setVspace(0));
     
     
