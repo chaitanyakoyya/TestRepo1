@@ -106,7 +106,7 @@ public class Challenge2Screen extends SequentialLessonAdapter
     /**
      * Description of the Field
      */
-    protected final static String PASSWORD = "Password";
+   
 
     /**
      * Description of the Field
