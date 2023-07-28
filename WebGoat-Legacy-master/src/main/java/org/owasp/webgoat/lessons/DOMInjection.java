@@ -60,7 +60,7 @@ public class DOMInjection extends LessonAdapter
 
     public final static A MAC_LOGO = new A().setHref("http://www.softwaresecured.com").addElement(new IMG("images/logos/softwaresecured.gif").setAlt("Software Secured").setBorder(0).setHspace(0).setVspace(0));
     
-    private final static String key = "K1JFWP8BSO8HI52LNPQS8F5L01N";
+    
 
     public void handleRequest(WebSession s)
     {
