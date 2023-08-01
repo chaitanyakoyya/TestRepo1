@@ -78,7 +78,7 @@ public class Encoding extends LessonAdapter
 
     private final static String INPUT = "input";
 
-    private final static String KEY = "key";
+   
 
     // local encoders
 
