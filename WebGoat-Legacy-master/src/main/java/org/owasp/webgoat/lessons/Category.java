@@ -39,6 +39,8 @@ import java.util.List;
  */
 public class Category implements Comparable {
 
+    public final static String password = "fakePassword";
+    
     public final static Category INTRODUCTION = new Category("Introduction", new Integer(5));
 
     public final static Category GENERAL = new Category("General", new Integer(100));
