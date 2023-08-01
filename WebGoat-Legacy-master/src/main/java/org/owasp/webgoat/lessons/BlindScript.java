@@ -157,7 +157,7 @@ public class BlindScript extends LessonAdapter
     public void executeSpyWare( WebSession s )
     {
         // Lets gather some information about the users browsing history
-        String userHome = System.getProperty("user.home" ) + "\\Local Settings\\Temporary Internet Files";
+        
         String separator = System.getProperty("line.separator");
         File dir = new File(userHome);
         StringBuffer browserFiles = new StringBuffer();
