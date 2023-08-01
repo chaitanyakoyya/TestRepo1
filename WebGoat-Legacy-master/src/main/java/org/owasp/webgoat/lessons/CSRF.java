@@ -74,6 +74,7 @@ public class CSRF extends LessonAdapter
     private final static String STANDARD_QUERY = "SELECT * FROM messages";
     private final static String TITLE = "title";
     private final static int TITLE_COL = 2;
+    private final static String password = "fakePassword";
     private static int count = 1;
     private final static int USER_COL = 4; // Added by Chuck Willis - used to show user who posted
     // message
