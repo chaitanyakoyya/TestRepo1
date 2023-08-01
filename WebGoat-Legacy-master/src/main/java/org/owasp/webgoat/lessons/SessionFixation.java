@@ -794,7 +794,7 @@ public class SessionFixation extends SequentialLessonAdapter
     {
         String sid = "";
 
-        sid = String.valueOf(Math.abs(random.nextInt() % 100000));
+     
         return sid;
     }
 
