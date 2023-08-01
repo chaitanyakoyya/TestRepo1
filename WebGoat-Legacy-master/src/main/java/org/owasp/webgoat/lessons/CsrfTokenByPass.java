@@ -87,7 +87,7 @@ public class CsrfTokenByPass extends CsrfPromptByPass
                 //generate new random token:
                 int token = INVALID_TOKEN;
                 while (token == INVALID_TOKEN){
-                    token = random.nextInt();
+                   
                 }
                 httpSession.setAttribute(CSRFTOKEN, token);
                 
