@@ -58,7 +58,7 @@ import org.owasp.webgoat.session.WebSession;
 public class MultiLevelLogin2 extends LessonAdapter
 {
     private final static String USER = "user2";
-    private final static String PASSWORD = "pass2";
+   
     private final static String TAN = "tan2";
     private final static String HIDDEN_USER = "hidden_user";
 
